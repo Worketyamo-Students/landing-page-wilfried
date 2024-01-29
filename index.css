@@ -30,7 +30,6 @@ body{
 }
 header {
     display: flex;
-    background-color:aquamarine;
     width: 100%;
     height: 5rem;
     
@@ -89,7 +88,6 @@ h1{
 }
 .sec1{
     display: flex;
-    background-color: cadetblue;
     width: 100%;
     height: 46rem;
     gap: 4rem;
@@ -99,7 +97,6 @@ h1{
 .cadre1{
    
     flex: 1;
-    background-color:crimson;
     width: 40%;
     height: 90%;
     margin-left: 3rem;
@@ -107,7 +104,6 @@ h1{
 }
 .cadre2{
     flex: 1;
-    background-color: blueviolet;
     width: 40%;
     height: 45rem;
     margin-right: 3rem;
@@ -173,7 +169,6 @@ h3{
 }
 .area{
     display: flex;
-    background-color: chartreuse;
     width: 100%;
     height: 5rem;
     border-top-left-radius: 1.5rem;
@@ -232,14 +227,12 @@ input{
 .sec2{
     display: flex;
     justify-content: center;
-    background-color:yellow;
     width:100%;
     height:48rem;
     gap: 3rem;
 }
 .cadre3{
     display: flex;
-    background-color: blueviolet;
     width: 45%;
     height: 40rem;
 }
@@ -262,7 +255,6 @@ input{
 
 }
 .cadre4{
-    background-color: rgb(31, 58, 232);
     width: 45%;
     height: 40rem;
 }
@@ -302,13 +294,11 @@ h5{
 .sec3{
     display: flex;
     justify-content: center;
-    background-color: aquamarine;
     width: 100%;
     height: 40rem;
     gap: 3rem;
 }
 .cadre5{
-    background-color: burlywood;
     width: 45%;
     height: 30rem;
 }
@@ -342,7 +332,6 @@ h6{
 }
 
 .cadre6{
-    background-color: brown;
     width: 45%;
     height: 30rem;
 }
@@ -365,13 +354,11 @@ h6{
     gap: 2rem;
 }
 .cadre8{
-    background-color: aquamarine;
     width: 40%;
     height: 30rem;
     
 }
 .cadre7{
-    background-color: rgb(0, 8, 5);
     width: 45%;
     height: 30rem;
     
@@ -408,13 +395,11 @@ h6{
     
     display: flex;
     justify-content: center;
-    background-color: rgb(255, 195, 127);
     width: 100%;
     height: 40rem;
     gap: 5rem;
 }
 .cadre10{
-    background-color: #94A3B8;
     width: 45%;
     height: 30rem;
     gap: 3rem;
@@ -525,19 +510,16 @@ h6{
 }
 .sec7{
     display: flex;
-    background-color: aqua;
     width: 100%;
     height: 6rem;
     gap: 5rem;
 }
 .cr{
-    background-color: antiquewhite;
     width: 40%;
     height: 5rem;
 }
 .cr1{
     display: flex;
-    background-color: rgb(140, 83, 8);
     width: 40%;
     height: 5rem;
 }
