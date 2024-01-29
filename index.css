@@ -335,19 +335,24 @@ h6{
 .sec4{
     display: flex;
     justify-content: center;
-    background-color: blueviolet;
-    width: 100%;
-    height: 30rem;
+    background-image: url(./image/mongonfier.jpeg);
+    width: 90%;
+    border-radius: 2rem;
+    padding-left: 5rem;
+    margin: 5rem;
+    background-size: cover;
+    height: 35rem;
     gap: 2rem;
 }
 .cadre8{
     background-color: aquamarine;
     width: 40%;
     height: 30rem;
+    
 }
 .cadre7{
     background-color: rgb(0, 8, 5);
-    width: 40%;
+    width: 45%;
     height: 30rem;
     
 }
@@ -378,6 +383,75 @@ h6{
     padding-left: 1rem;
     width: 2rem;
     height: 1.5rem;
+}
+.sec5{ 
+    
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 195, 127);
+    width: 100%;
+    height: 40rem;
+    gap: 5rem;
+}
+.cadre10{
+    background-color: #94A3B8;
+    width: 45%;
+    height: 30rem;
+    gap: 3rem;
+}
+.i11{
+
+    color: #0F172A;
+    font-family: var(--font);
+    font-weight: 800;
+    font-size: 5rem;
+    padding-left: 4rem;
+    padding-top: 3rem;
+}
+.ge{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;    
+}
+.p12{
+    
+    color: #2563EB;
+    font-size: 2rem;
+    font-family: var(--font);
+    font-weight: 500;
+}
+.ve{
+    padding-left: 1rem;
+    width: 2rem;
+    height: 1.5rem;
+}
+.ico{
+    border: solid 0.2rem;
+    font-family: var(--font);
+    font-size: 2rem;
+    font-weight: 700;
+    width: 28%;
+    height: 3rem;
+    padding-top: 1rem;
+    
+}
+.i10{
+    
+    font-family: var(--font);
+    font-weight: 500;
+    color: #0F172A;
+    padding-right:4rem ;
+    font-size: 1.3rem; 
+}
+.cadre11{
+    background-color: url(image/élève.svg);
+    width: auto;
+    height: 30rem;
+}
+.v1{
+    width: 120%;
+    height: 33rem;
 }
 
 
